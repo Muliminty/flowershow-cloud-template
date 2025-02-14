@@ -1,64 +1,36 @@
 ---
-title: Blog Home
+title: 博客主页
 ---
-# Welcome to My Blog
+# 欢迎来到我的博客
 
-Join me as I explore the world, code, and the little things in life that make it wonderful.
+加入我，一起探索世界、编程，以及生活中那些让人感到美好的小事。
 
 ![[auroras.jpeg]]
 
 ---
 
-## Featured Posts
+## 精选文章
 
-- [Chasing Auroras in Norway](/blog/chasing-auroras-norway)
-  _The lights that danced and the lessons they taught me._
+- [追逐挪威的极光](/blog/chasing-auroras-norway)
+  _那些舞动的光芒和它们教会我的东西。_
   
-- [Life Lessons Learned](/blog/life-lessons-learned)
-  _The pearls of wisdom gathered on life's winding road._
+- [生活中的教训](/blog/life-lessons-learned)
+  _在生活曲折的道路上收集的智慧珍珠。_
 
-- [Let's Talk JavaScript](/blog/javascript-tips)
-  _Dive into the depths of JavaScript with tips and tales._
-
----
-
-## Categories
-
-Explore posts by category:
-
-- [Technology](/blog/category/technology)
-- [Travel](/blog/category/travel)
-- [Photography](/blog/category/photography)
-- [Personal Development](/blog/category/personal-development)
+- [聊聊 JavaScript](/blog/javascript-tips)
+  _深入探讨 JavaScript 的技巧和故事。_
 
 ---
 
-## Latest Musings
+## 分类
 
-```md
-- [[/blog/new-beginnings|New Beginnings]]
-  Starting fresh with a new outlook on life.
-- [[/blog/favorite-books-2023|Favorite Books of 2023]]
-  My annual book list and reviews.
-- [[/blog/hiking-trails|Hiking Trails to Explore]]
-  Discovering trails that challenge the body and inspire the soul.
-```
+按类别探索文章：
+
+- [技术](/blog/category/technology)
+- [旅行](/blog/category/travel)
+- [摄影](/blog/category/photography)
+- [个人发展](/blog/category/personal-development)
 
 ---
 
-## Stay Updated
-
-> [!info] Never miss a post. Subscribe to my newsletter for the latest updates right to your inbox.
->
-> [Subscribe Now](/subscribe)
-
----
-
-## Get In Touch
-
-Got a question, suggestion, or a story to share? Contact me at [hello@myblog.com](mailto:hello@myblog.com). Let's connect!
-
----
-
-> [!tip] Interested in starting your own blog? Check out my step-by-step guide: [Start Your Blog Today!](/blog/start-blogging)
-
+## 最新思考

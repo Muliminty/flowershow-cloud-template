@@ -1,35 +1,12 @@
 ---
-title: Let's Talk JavaScript
+title: 聊聊 JavaScript
 date: 2024-04-17
 ---
 
-# JavaScript: More Than Just Syntax
+# JavaScript：不仅仅是语法
 
-Delve into the intricacies of JavaScript and discover its power beyond the basics.
+深入探讨 JavaScript 的复杂性，发现其超越基础的强大之处。
 
-## Functional Over Flair
+## 功能优于浮华
 
-Embrace simplicity and function in your JavaScript code.
-
-```javascript
-// Minimalist example
-const greet = () => console.log("Hello World!");
-greet();
-```
-
-### Tips & Tricks
-
-- Understand `this`, `bind()`, `call()`, and `apply()`
-- Master **asynchronous programming** with Promises and `async/await`
-- Refactor to adopt ES6 features
-
-### Resources
-
-- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
----
-
-## Feedback
-
-Share your JS journey or questions at [jstalk@myblog.com](mailto:jstalk@myblog.com)
+在你的 JavaScript 代码中拥抱简洁和功能。
